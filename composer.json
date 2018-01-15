@@ -1,5 +1,5 @@
 {
-	"name": "mediawiki/sentry",
+	"name": "aifb-smw/mediawiki-sentry",
 	"type": "mediawiki-extension",
 	"description": "Send MediaWiki errors to Sentry, a realtime, platform-agnostic error logging and aggregation platform",
 	"keywords": [
